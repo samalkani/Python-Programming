@@ -49,3 +49,8 @@ Repository of Python Programs
 10. __Reinforcement Learning__
       1. Thompson Sampling (TS)
       2. Upper Confidence Bound (UCB)
+
+## Deep Learning
+
+1. __Mega Case Study__ - use of a __hybrid deep learning model__, incorporating *unsupervised learning*, __self organising maps (SOM)__ and *supervised learning*, __artificial neural network (ANN)__, for fraud detection.
+2. Recurrent Neural Networks (RNN's)
