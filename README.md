@@ -52,5 +52,5 @@ Repository of Python Programs
 
 ## Deep Learning
 
-1. __Mega Case Study__ - use of a __hybrid deep learning model__, incorporating *unsupervised learning*, __self organising maps (SOM)__ and *supervised learning*, __artificial neural network (ANN)__, for fraud detection.
-2. __Recurrent Neural Networks (RNN's)__
+1. __Mega Case Study__ - use of a __hybrid deep learning model__, incorporating *unsupervised learning*, __self organising maps (SOM)__ and *supervised learning*, __artificial neural network (ANN)__, for __fraud detection__.
+2. __Predicting Google Stock price__ - use of  a __recurrent Neural Networks (RNN's)__, specifically, __long short term memory (LSTM)__ to predict Google Stock Price, several different __LSTM's__ were tried.
