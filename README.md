@@ -54,3 +54,18 @@ Repository of Python Programs
 
 1. __Mega Case Study__ - use of a __hybrid deep learning model__, incorporating *unsupervised learning*, __self organising maps (SOM)__ and *supervised learning*, __artificial neural network (ANN)__, for __fraud detection__.
 2. __Predicting Google Stock price__ - use of  a __recurrent Neural Networks (RNN's)__, specifically, __long short term memory (LSTM)__ to predict Google Stock Price, several different __LSTM's__ were tried.
+
+## Webscrapping
+
+A collection of webscrapping programs using Python Selenium, Flask, Digital Ocean.
+
+1. __Devcode__
+     1. Basics
+     2. Devcode as a package
+     3. Forever lists - Twitter
+     4. Instagram
+     5. LinkedIn
+     6. Page Jaunes
+     7. Scheduler
+2. __Digital Ocean code__
+3. __Python anywhere code__
