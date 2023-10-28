@@ -25,7 +25,7 @@ Repository of Python Programs
       1. Principal Components Analysis (PCA)
       2. Kernel PCA
       3. Linear Discriminant Analysis (LDA)
-6. __Logistic Regression Case Study__
+6. __Logistic Regression Case Study__ - *Prediction of Breast Cancer*.
 7. __Model Selection & Boosting__
       1. XgBoost
       2. CatBoost
